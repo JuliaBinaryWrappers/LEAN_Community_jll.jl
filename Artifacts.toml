@@ -1,0 +1,252 @@
+[[LEAN_Community]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fc61d5eaec4264f004a6659df25492a842b160e4"
+libc = "glibc"
+os = "linux"
+
+    [[LEAN_Community.download]]
+    sha256 = "c0e33a08ae189791cddcb82b00e0db943efd252b6e439cf2a4b54d7531f3ab8d"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[LEAN_Community]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7c13578452d296248d665062681326d85f6132e9"
+libc = "glibc"
+os = "linux"
+
+    [[LEAN_Community.download]]
+    sha256 = "7cf80e4ed07800163f35951ae581cc92f7cd42436291b73781ef465600d352d2"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[LEAN_Community]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1fbe55b7e2c1e74abdf9b0f5b3d4fdcff111fbfd"
+libc = "musl"
+os = "linux"
+
+    [[LEAN_Community.download]]
+    sha256 = "86765b4caefcadc6e805016aa8997eb0d54c4b5ac09ad8c9a0dbee8ab1fa619a"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.aarch64-linux-musl-cxx03.tar.gz"
+[[LEAN_Community]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5be0d5403901908d7e7b322b367b392d86119aa0"
+libc = "musl"
+os = "linux"
+
+    [[LEAN_Community.download]]
+    sha256 = "f943193c837c65a91a3503140e72c106b6b93e200868d78c4002fa0f439a3ce3"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.aarch64-linux-musl-cxx11.tar.gz"
+[[LEAN_Community]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c8f7cb4a663cb6fb47e179289d6e1920c2bf6bc9"
+libc = "glibc"
+os = "linux"
+
+    [[LEAN_Community.download]]
+    sha256 = "eceac2d8e2020b16869a402eb87ec9957d773a76bd75b4cb6f19e4629399e003"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[LEAN_Community]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f78a8c680739ec0aed4520c3aecce6de683cef0a"
+libc = "glibc"
+os = "linux"
+
+    [[LEAN_Community.download]]
+    sha256 = "198794ee7868507bc9ac4b3186ef4bf5e5bda3c1661d12908951eb39c8b950ae"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[LEAN_Community]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4c24614c69b0d903dbaae8a37fb9b39f7b250d72"
+libc = "musl"
+os = "linux"
+
+    [[LEAN_Community.download]]
+    sha256 = "7aae52a23ceea129f4a9c4539d4d7442f4a1407afb2988e717974feb758a8f16"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[LEAN_Community]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8bfecb104488ab62fd1906c422096fe2ee6f6f58"
+libc = "musl"
+os = "linux"
+
+    [[LEAN_Community.download]]
+    sha256 = "46d6a3644bf91565a37f67e4ada2bc788bd61209459510cd483859fbb5901366"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[LEAN_Community]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "93dd2914795e13dee0c861ee26a92d02bead0921"
+libc = "glibc"
+os = "linux"
+
+    [[LEAN_Community.download]]
+    sha256 = "3b0b4aef7a5dec6c9169add44f2cda878f3c47386a7b0caa8e7aed2b58a3ccf9"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.i686-linux-gnu-cxx03.tar.gz"
+[[LEAN_Community]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d70d16a2cb21b9d2368a77bb0fc15439f60d5b8d"
+libc = "glibc"
+os = "linux"
+
+    [[LEAN_Community.download]]
+    sha256 = "bd08ddf00cc01d8fa1cfe20b59c274855d3b751f15628625e34cdf793233ec5d"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.i686-linux-gnu-cxx11.tar.gz"
+[[LEAN_Community]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ae63e1f73f975956dbb1134390df18dd88f2a2a9"
+libc = "musl"
+os = "linux"
+
+    [[LEAN_Community.download]]
+    sha256 = "e79c3153f203d83d08709f2809628f83fff5862647271f03c4a52e871a4842c9"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.i686-linux-musl-cxx03.tar.gz"
+[[LEAN_Community]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cdf4f30701a11a7d5fde4f9f6d0e0fdc3c436d73"
+libc = "musl"
+os = "linux"
+
+    [[LEAN_Community.download]]
+    sha256 = "296aa679517753c8cce6b94b3ba120fc34bcb61fe159fdbe4b06a2da7d394017"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.i686-linux-musl-cxx11.tar.gz"
+[[LEAN_Community]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "440a053ea0970b640967b3945a2e1b051c06377a"
+os = "windows"
+
+    [[LEAN_Community.download]]
+    sha256 = "92a3c0e1db9e5e1f035a4043e6e2157686cfe49c91fb4e73718875abe41a0935"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.i686-w64-mingw32-cxx03.tar.gz"
+[[LEAN_Community]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5398e87b239353d61a0a424798581281d3030639"
+os = "windows"
+
+    [[LEAN_Community.download]]
+    sha256 = "dcdfff15b2c1ee2207e3350447ccbef955b3ff1992ee2c4aadb1ce1043b816d6"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.i686-w64-mingw32-cxx11.tar.gz"
+[[LEAN_Community]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f141b5334dcebf05e59b527b80b1d1140f93393e"
+libc = "glibc"
+os = "linux"
+
+    [[LEAN_Community.download]]
+    sha256 = "6179d2b4b70e501aa4924a75dcabab280451e0203c62f1eb04ce9b4784f825f9"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[LEAN_Community]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "18b0ffd7c3d4c8b1034dc692438fa67c105b2bb2"
+libc = "glibc"
+os = "linux"
+
+    [[LEAN_Community.download]]
+    sha256 = "370942d5f398936586e1169f13c4106d07a08fb368fa8da4973546be1bce2823"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[LEAN_Community]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "333d487d67d5b084d7028a49679a4de1b92e60a4"
+os = "macos"
+
+    [[LEAN_Community.download]]
+    sha256 = "a7ccccad767e53688dd0bfb203ac32c71ee05734cab9eef0c9bbc9b6ffc0fe6b"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.x86_64-apple-darwin14-cxx03.tar.gz"
+[[LEAN_Community]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0c9ff52df0b6612638c0081ff7235f7fe4177ed8"
+os = "macos"
+
+    [[LEAN_Community.download]]
+    sha256 = "d505d2f224fe503e9513424ff9f135333edcb1de301863de0fabd29015f879ac"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.x86_64-apple-darwin14-cxx11.tar.gz"
+[[LEAN_Community]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2bd7c7f54c1e2b52e3d363bed5717b73f648f4b1"
+libc = "glibc"
+os = "linux"
+
+    [[LEAN_Community.download]]
+    sha256 = "4405776c576fc33032d85a6b80858ab226c97ee1b5c33cd0b03fa6f156b295d1"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[LEAN_Community]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2eacb84df219e1a1ea1b4afe0f5ee48fa0bbebeb"
+libc = "glibc"
+os = "linux"
+
+    [[LEAN_Community.download]]
+    sha256 = "33b94457a45fd71937a8221055ca261d3cd172dd14872c4a794548290d70e777"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[LEAN_Community]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f494c15234a15f5957913b41de824ea3f123cc49"
+libc = "musl"
+os = "linux"
+
+    [[LEAN_Community.download]]
+    sha256 = "a0ada86adbb57aceff9127895392eb9e739768436cdf3f48d525c451a796ab23"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.x86_64-linux-musl-cxx03.tar.gz"
+[[LEAN_Community]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1228cb47c9ada99164d31279bc99950cd00558c0"
+libc = "musl"
+os = "linux"
+
+    [[LEAN_Community.download]]
+    sha256 = "79ee605ab0880b5a7238b0e8b816da9caf43120a293d97d2629047710ba896e9"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.x86_64-linux-musl-cxx11.tar.gz"
+[[LEAN_Community]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0f0097461e5a492c62e83f9e3e4ea2c62d63ca12"
+os = "freebsd"
+
+    [[LEAN_Community.download]]
+    sha256 = "821f3705662da0c3d66295b3923fe7f0636ae9b3ebbafa4946e2ecfdb919475d"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
+[[LEAN_Community]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9899afbfdcd9285f813a8beaf368d325eff85c35"
+os = "freebsd"
+
+    [[LEAN_Community.download]]
+    sha256 = "e292d01783a824a791f856adf436fe1ececf0659677f0b4eeddc8a1356aeccfc"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
+[[LEAN_Community]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9dc36861b95f7090289de8c8db0a6ad95917a5fa"
+os = "windows"
+
+    [[LEAN_Community.download]]
+    sha256 = "5a08b5c05e9025051d9ef220c134f93e3e464f022c6ed69549d733e05fbb62e3"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[LEAN_Community]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "461108bd9d408e7a3ebb7c3a1f53b82a0fbd948e"
+os = "windows"
+
+    [[LEAN_Community.download]]
+    sha256 = "c23c89de006d8bcf9f8ab6d7fe1eeb1653694902222b77d3a2a0f3a64dde3d34"
+    url = "https://github.com/JuliaBinaryWrappers/LEAN_Community_jll.jl/releases/download/LEAN_Community-v3.15.0+0/LEAN_Community.v3.15.0.x86_64-w64-mingw32-cxx11.tar.gz"
